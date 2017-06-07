@@ -1,7 +1,5 @@
 # 厂商黑名单
 
-
-
 我也只是围观群众，背后的真相大家自己判断，我只是单纯的收藏一些链接，不喜勿喷，欢迎大家关注我[微博](http://weibo.com/woniuppp)和提 [issues](https://github.com/shengxinjing/programmer-job-blacklist/issues) 来参与维护这个名单
 
 
@@ -41,9 +39,20 @@
 * 华为
     - [华为清理 34 岁以上员工](https://www.zhihu.com/question/55618811)
     - [任正非回应华为清理老员工：华为不养吃白饭的人](http://www.williamlong.info/archives/4894.html)
+* 音悦台
+    - [你为什么从音悦台离职？](https://www.zhihu.com/question/22461542)
+* 珠海时代互联
+    - [在珠海时代互联(优品科技)工作是怎样一番体验](https://www.zhihu.com/question/54987066)
+    - [第一次听说工资可以打八折](https://www.v2ex.com/t/348047#reply50)
+* 阿里钉钉
+    - [如何看待阿里「步数垫底罚站一周」](https://www.zhihu.com/question/57732499)
+* 4399
+    - [你为什么从 4399 离职？](https://www.zhihu.com/question/22048775)
+* 酷派
+    - [如何看待酷派在毕业入职前夕疑似解约 300 余名校招应届毕业生？](https://www.zhihu.com/question/59878776)        
+
 
 ### 技术合伙人
-
 
 * 青云
     - [知乎：你如何看青云员工期权合同欺诈事件？](https://www.zhihu.com/question/47442360)
@@ -66,27 +75,32 @@
     - [对那个创业者的妻子提一个问题，一个建议](https://mp.weixin.qq.com/s?__biz=MzA3MjA4MDI5OQ==&mid=2651728497&idx=1&sn=4a44f4da1c8450aafdd59608d1ccfe97&key=ffe67a077c969a8bcd4e189116725132332291db2178c0be737bc6ebbe76b14b33eeeb9feb29c85e37e04b8914fc96f0b3df454d6d557560d886a43cbd6c43fbc9beade7732f6df78c8485a2f7d01aaf&ascene=0&uin=MTA1MTg0NzQ0MA%3D%3D&devicetype=iMac+MacBookPro8%2C1+OSX+OSX+10.11.6+build(15G1217)&version=12010210&nettype=WIFI&fontScale=100&pass_ticket=s6mb9CuZGxkN8n8xyrkfgTaSA%2FlrAhiGOafJkPjKj5Hy0YaGkmuwxc5%2B1DGanVEN)
     - [作为除当事人外最有权力发言的人，谈谈《就算老公一毛钱股份都没拿到，在我心里，他依然是最牛逼的创业者》](https://mp.weixin.qq.com/s?__biz=MzUyMDAwOTUwMA==&mid=2247483654&idx=1&sn=9694290fbec136b4db8ca96aaaae1610&key=ce5474c1928dba09e4eff02c16454389d8599a9d326d5d4afb783846e1c1734b3712a9ae998194fa10745212d2542b2ecd067168a2b7b09826236d58b0930a59c0f525fc54e3aed6903ac50943b387d6&ascene=0&uin=MTA1MTg0NzQ0MA%3D%3D&devicetype=iMac+MacBookPro8%2C1+OSX+OSX+10.11.6+build(15G1217)&version=12010210&nettype=WIFI&fontScale=100&pass_ticket=s6mb9CuZGxkN8n8xyrkfgTaSA%2FlrAhiGOafJkPjKj5Hy0YaGkmuwxc5%2B1DGanVEN)
 * 乐曼多科技
+    - [如何评价成都乐曼多公司打人事件？](https://www.zhihu.com/question/56707020)
     - [怎么看待《街篮》手游研发商，成都乐曼多科技近日发生的殴打程序员事件？](https://www.zhihu.com/question/56705233)
-
+* 北京聚道科技有限公司
+    - [汉东官场算什么，我被创投圈“暗算”的经历，沙书记都架不住](http://weibo.com/ttarticle/p/show?id=2309404098747628943708)
 
 ### 不确定的
     待补充
 
+
 ### 选公司
 
 * 建议大家在选择公司的时候摸摸底子 http://tianyancha.com ，发现有问题直接问负责人省的吃哑巴亏。
-
+* [知乎合集：有哪些公司给你留下「还好没去这家公司」的印象？](https://www.zhihu.com/question/38718862)
 
 
 ### 当技术合伙人建议
 * 选自[冯大辉的微博](http://weibo.com/1577826897/EwLWXoxtG) 只写代码和当合伙人，还是有很大差别的，我觉得上面的建议很中肯
 
+
 ### 最后
 
 * 最后说一下心得，竟然还有希望 GitHub 处理这个 repo，原因是想维护github这份纯净，还把 GitHub 被墙和我挂钩，我真是醉了，就像一群待宰的羔羊，心想着只要老实一点，宰的就是别人不是我一样
 
-* 我只是记录一下自己看到过的事件，我自己下次换工作的时候防止才坑，仅此而已
+* 我只是记录一下自己看到过的事件，我自己下次换工作的时候防止踩坑，仅此而已
 * 我也没有那么愤世嫉俗，比如我以后换工作，还是会考虑百度阿里的，但是会避免上面出现的坑，比如百度无人车我就不去啦，阿里的其他很多部门还是很棒的，希望到时候不会因为这个名单把我 pass 吧:joy:
 
 
-> 欢迎大家 star 和提交厂商名单和原因
+> 求star，支持我继续把这个名单维护下去,谢谢支持
+
